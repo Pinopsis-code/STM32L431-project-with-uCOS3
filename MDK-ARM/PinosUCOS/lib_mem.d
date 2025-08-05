@@ -1,0 +1,11 @@
+pinosucos\lib_mem.o: ..\UCOS\lib\lib_mem.c
+pinosucos\lib_mem.o: ..\UCOS\lib\lib_mem.h
+pinosucos\lib_mem.o: ..\UCOS\cpu\cpu.h
+pinosucos\lib_mem.o: ..\UCOS\cpu\cpu_def.h
+pinosucos\lib_mem.o: ..\UCOS\config\cpu_cfg.h
+pinosucos\lib_mem.o: ..\UCOS\cpu\cpu_core.h
+pinosucos\lib_mem.o: ..\UCOS\lib\lib_def.h
+pinosucos\lib_mem.o: ..\UCOS\config\lib_cfg.h
+pinosucos\lib_mem.o: ..\UCOS\lib\lib_math.h
+pinosucos\lib_mem.o: ..\UCOS\lib\lib_str.h
+pinosucos\lib_mem.o: ..\UCOS\lib\lib_ascii.h

@@ -1,0 +1,13 @@
+pinosucos\os_app_hooks.o: ..\UCOS\config\os_app_hooks.c
+pinosucos\os_app_hooks.o: ..\UCOS\os3\os.h
+pinosucos\os_app_hooks.o: ..\UCOS\config\os_cfg.h
+pinosucos\os_app_hooks.o: ..\UCOS\config\os_cfg_app.h
+pinosucos\os_app_hooks.o: ..\UCOS\cpu\cpu_core.h
+pinosucos\os_app_hooks.o: ..\UCOS\cpu\cpu.h
+pinosucos\os_app_hooks.o: ..\UCOS\cpu\cpu_def.h
+pinosucos\os_app_hooks.o: ..\UCOS\config\cpu_cfg.h
+pinosucos\os_app_hooks.o: ..\UCOS\lib\lib_def.h
+pinosucos\os_app_hooks.o: ..\UCOS\os3\os_type.h
+pinosucos\os_app_hooks.o: ..\UCOS\os3\os_cpu.h
+pinosucos\os_app_hooks.o: ..\UCOS\os3\os_trace.h
+pinosucos\os_app_hooks.o: ..\UCOS\config\os_app_hooks.h

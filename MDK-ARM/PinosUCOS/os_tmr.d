@@ -1,0 +1,12 @@
+pinosucos\os_tmr.o: ..\UCOS\os3\os_tmr.c
+pinosucos\os_tmr.o: ..\UCOS\os3\os.h
+pinosucos\os_tmr.o: ..\UCOS\config\os_cfg.h
+pinosucos\os_tmr.o: ..\UCOS\config\os_cfg_app.h
+pinosucos\os_tmr.o: ..\UCOS\cpu\cpu_core.h
+pinosucos\os_tmr.o: ..\UCOS\cpu\cpu.h
+pinosucos\os_tmr.o: ..\UCOS\cpu\cpu_def.h
+pinosucos\os_tmr.o: ..\UCOS\config\cpu_cfg.h
+pinosucos\os_tmr.o: ..\UCOS\lib\lib_def.h
+pinosucos\os_tmr.o: ..\UCOS\os3\os_type.h
+pinosucos\os_tmr.o: ..\UCOS\os3\os_cpu.h
+pinosucos\os_tmr.o: ..\UCOS\os3\os_trace.h
